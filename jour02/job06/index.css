@@ -1,0 +1,13 @@
+body {
+    min-width: 4096px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #000000; /* Couleur de départ */
+    transition: background-color 0.2s ease-in-out; /* Animation pour la couleur */
+    color: aliceblue;
+}
